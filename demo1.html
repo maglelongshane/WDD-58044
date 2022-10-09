@@ -1,0 +1,50 @@
+<html>
+	<head>
+		
+		<title>This is my first web page</title>
+	</head>
+	<body bgcolor = "white">
+			<i>
+			<u>
+			<h1 align = "center"><font face="Verdana" >This is the content of my web page</font></h1>
+			</u>
+			</i>
+			<h2>Figure 1. Category of Books </h2>
+			<table border = 1>
+				<tr>
+					<th>BOOKS</th>
+					<th>SOFTWARE</th>
+					<th>HARDWARE</th>
+				</tr>
+				<tr>
+					<td>Creative Design</td>
+					<td>Office Suite</td>
+					<td>Microprocessor</td>
+				</tr>
+				<tr>
+					<td>Computer</td>
+					<td>Microsoft</td>
+					<td>Logic Circuits</td>
+				</tr>
+
+			<h3>Figure 1. Category of Books</h3>
+				<ol>
+					<li>Books
+						<ul>
+							<li>Creative Design
+							<li>Computer
+						</ul>
+					<li>Software
+						<ul>
+							<li>Office Suite
+							<li>Microsoft
+						</ul>
+					<li>Hardware
+						<ul>
+							<li>Microprocessor
+							<li>Logic Circuits
+						</ul>
+				</ol>
+	</body>
+
+</html>
